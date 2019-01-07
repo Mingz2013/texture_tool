@@ -1,0 +1,135 @@
+{
+  "file": "shapesheet_shape.png",
+  "frames": {
+    "bmGridEmpty": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 2,
+      "y": 130
+    },
+    "bmGridEmptyMask": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 2,
+      "y": 194
+    },
+    "clsGrid1": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 2,
+      "y": 2
+    },
+    "clsGrid1001": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 66,
+      "y": 130
+    },
+    "clsGrid1002": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 130,
+      "y": 130
+    },
+    "clsGrid1003": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 194,
+      "y": 130
+    },
+    "clsGrid2": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 66,
+      "y": 2
+    },
+    "clsGrid3": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 130,
+      "y": 2
+    },
+    "clsGrid4": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 194,
+      "y": 2
+    },
+    "clsGrid5": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 2,
+      "y": 66
+    },
+    "clsGrid6": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 66,
+      "y": 66
+    },
+    "clsGrid7": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 130,
+      "y": 66
+    },
+    "clsGrid8": {
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 60,
+      "sourceW": 60,
+      "w": 60,
+      "x": 194,
+      "y": 66
+    }
+  }
+}
